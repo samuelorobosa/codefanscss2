@@ -1,0 +1,22 @@
+<style>
+  .red-text {
+    color: #F00; /*solution*/
+  }
+  .fuchsia-text {
+    color: #F0F; /*solution*/
+  }
+  .cyan-text {
+    color: #0FF; /*solution*/
+  }
+  .green-text {
+    color: #0F0; /*solution*/
+  }
+</style>
+
+<h1 class="red-text">I am red!</h1>
+
+<h1 class="fuchsia-text">I am fuchsia!</h1>
+
+<h1 class="cyan-text">I am cyan!</h1>
+
+<h1 class="green-text">I am green!</h1>
